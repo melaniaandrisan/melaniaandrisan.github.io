@@ -8,9 +8,6 @@ title: "Day 2 - Adding Disqus to Jekyll blog"
 
 
 
-
-## Day 2 - Adding Disqus to Jekyll blog
-
 Today I managed to add Disqus to my blog. Is a prety easy step to make my play static blog a liitle bit dynamic.
 
 I just went directly to disqus.com and after a couple of logins I ended up at [this publishers page](https://publishers.disqus.com/engage) and "started to engage".
