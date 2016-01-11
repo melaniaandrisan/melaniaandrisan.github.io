@@ -1,22 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-01-10 20:35:13 +0200
+title: "Welcome to my technical experience space  "
+date: "2016-01-10 20:35:13 +0200"
 categories: jekyll update
+published: true
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I started this blog to learn to build a blog using static sites and to make it as beautiful and usefull as I can. 
 
-Jekyll also offers powerful support for code snippets:
+The scope is to learn all this technologies, to become a better writer and a better web developer.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+I am an architect which likes challanges, so this new year challange is to learn every week something new related to web development(css, js, ajax, html...).
+
+So lets see the power of `Jekyll`.
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
