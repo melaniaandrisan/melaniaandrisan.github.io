@@ -3,7 +3,9 @@ published: true
 layout: post
 date: "2016-01-10 21:35:13 +0200"
 categories: jekyll update
+title: And I started to edit my technical blog
 ---
+
 
 
 
