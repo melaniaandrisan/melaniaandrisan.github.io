@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## Day 2 - Adding Disqus to Jekyll blog
 
@@ -16,5 +17,4 @@ Easy to fill in and the next steps ware:
 1. I created a [comments.html](https://github.com/melaniaandrisan/melaniaandrisan.github.io/blob/master/_includes/comments.html) page in the `_includes` folder.
 2. I added `{% include comments.html %}` in [_layouts/default.html](https://github.com/melaniaandrisan/melaniaandrisan.github.io/blob/master/_layouts/default.html)
 
-3. Push to git... and voila :) 
-
+3. Push to git... and voila :)
