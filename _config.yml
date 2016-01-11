@@ -17,9 +17,3 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-
-# Pages
-pages_list:       
-  About: '/about'
-  Archive: '/archive'
-  
