@@ -3,7 +3,9 @@ published: true
 layout: post
 date: "2016-01-11 20:35:13 +0200"
 categories: jekyll update
+title: "Day 2 - Adding Disqus to Jekyll blog"
 ---
+
 
 
 
