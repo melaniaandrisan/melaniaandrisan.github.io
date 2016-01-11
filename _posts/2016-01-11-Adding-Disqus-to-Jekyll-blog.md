@@ -1,9 +1,12 @@
 ---
 published: true
+layout: post
+date: "2016-01-11 20:35:13 +0200"
+categories: jekyll update
+title: "Day 2 - Adding Disqus to Jekyll blog"
 ---
 
 
-## Day 2 - Adding Disqus to Jekyll blog
 
 Today I managed to add Disqus to my blog. Is a prety easy step to make my play static blog a liitle bit dynamic.
 
@@ -16,5 +19,4 @@ I just loged in and I ended up at this page:
 Easy to fill in and the next steps ware:
 1. I created a [comments.html](https://github.com/melaniaandrisan/melaniaandrisan.github.io/blob/master/_includes/comments.html) page in the `_includes` folder.
 2. I added `{% include comments.html %}` in [_layouts/default.html](https://github.com/melaniaandrisan/melaniaandrisan.github.io/blob/master/_layouts/default.html)
-
 3. Push to git... and voila :)
