@@ -15,6 +15,8 @@ Here are some helpful links:
 [Markdown Tutorial](http://markdowntutorial.com/) - I liked this one because is interactive and learning by doing is the best.
 
 My personal notes from today:  
+
+
 ```
 ** for bold
 _ for italic
@@ -36,5 +38,6 @@ _ for italic
 2 spaces to have new line  - one enter in not enough
 2 enters is a new paragraph  
 ```
+
 
 P.S. I am using Atom as an editor and I have also Markdown Preview using `CTRL+ALT+M`
