@@ -17,7 +17,7 @@ Here are some helpful links:
 My personal notes from today:  
 
 
-```
+~~~
 ** for bold
 _ for italic
 # for header
@@ -37,7 +37,9 @@ _ for italic
 
 2 spaces to have new line  - one enter in not enough
 2 enters is a new paragraph  
-```
 
+~~~
+
+A short personal note: It looks like the known ``` is not working for code snippets, so I used ~~~.
 
 P.S. I am using Atom as an editor and I have also Markdown Preview using `CTRL+ALT+M`
