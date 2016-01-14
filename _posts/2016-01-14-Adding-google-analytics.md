@@ -29,7 +29,9 @@ To be able to do this I need to do the next steps:
 4. Include the link to it into [default.html](https://github.com/melaniaandrisan/melaniaandrisan.github.io/blob/master/_layouts/default.html)
 
     {% highlight html %}
-      {&percnt; include google_analytics.html &percnt;}
+    {% raw  %}
+    {% include google_analytics.html %}
+    {% endraw %}
     {% endhighlight %}
 
 5. And now I need to make my blog known ... Tada... :D
