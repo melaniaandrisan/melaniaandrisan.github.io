@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-
+  {% include google_analytics.html %}
   {% include head.html %}
 
   <body>
@@ -11,7 +11,7 @@
       <div class="wrapper">
         {{ content }}
       </div>
-      
+
      <div>
           {% include comments.html %}
      </div>
@@ -19,5 +19,4 @@
   {% include footer.html %}
 
   </body>
-
 </html>
