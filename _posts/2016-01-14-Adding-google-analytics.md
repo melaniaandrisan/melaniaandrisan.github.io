@@ -35,3 +35,17 @@ To be able to do this I need to do the next steps:
     {% endhighlight %}
 
 5. And now I need to make my blog known ... Tada... :D
+
+P.S. To see the code properly I used the `highlight` Liquid tag and to be able to include de Liquid code as a paragraph in my post I used the `raw` tag.
+
+{% highlight html %}
+{% raw  %}
+
+  {% highlight html %}
+  {% raw  %}
+    {% include google_analytics.html %}
+  {% endraw %}
+  {% endhighlight %}
+
+{% endraw %}
+{% endhighlight %}
