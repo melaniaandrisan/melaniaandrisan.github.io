@@ -1,9 +1,11 @@
 ---
+
 published: true
 layout: post
 date: "2016-01-15 23:30:10 +0200"
 categories: Jekyll
-title: "Swift - Reading in trying "The Swift programming language"
+title: "Swift - Reading in trying - The Swift programming language book"
+
 ---
 
 Looking at Swift after so many months of "no programming" is very cool because is a very easy language to learn and without so many restrictions.
