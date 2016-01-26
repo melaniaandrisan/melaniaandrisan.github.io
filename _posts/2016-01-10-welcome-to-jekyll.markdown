@@ -6,11 +6,11 @@ categories: jekyll update
 published: true
 ---
 
-I started this blog to learn to build a blog using static sites and to make it as beautiful and usefull as I can. 
+I started this blog to learn to build a blog using static sites and to make it as beautiful and useful as I can.
 
-The scope is to learn all this technologies, to become a better writer and a better web developer.
+The scope is to learn all this technologies, to become a better writer and a better developer and a better architect.
 
-I am an architect which likes challanges, so this new year challange is to learn every week something new related to web development(css, js, ajax, html...).
+I am an architect which likes challenges, so this new year challenge is to learn every week something new related to web development(css, js, ajax, html...) and a lot more related to technologies.
 
 So lets see the power of `Jekyll`.
 

@@ -1,1 +1,1 @@
-## My previosly posted blog entries on mela.ro
+## My previously posted blog entries on mela.ro

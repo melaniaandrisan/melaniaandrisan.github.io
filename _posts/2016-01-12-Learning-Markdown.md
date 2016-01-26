@@ -43,3 +43,11 @@ _ for italic
 A short personal note: It looks like the known ``` is not working for code snippets, so I used ~~~.
 
 P.S. I am using Atom as an editor and I have also Markdown Preview using `CTRL+ALT+M`
+
+#### Post Update
+
+I installed also [Github markup](https://github.com/github/markup). More about it on [Github help](https://help.github.com/articles/github-flavored-markdown/)
+
+More about the code highlight suport on [linguist page](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml).
+
+[Kramdown syntax](http://kramdown.gettalong.org/quickref.html#inline-code) - the default Markdown build settings for Jekyll

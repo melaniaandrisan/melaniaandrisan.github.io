@@ -17,3 +17,12 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+# Post excerpt
+---
+excerpt_separator: <!--more-->
+---
+
+Excerpt
+<!--more-->
+Out-of-excerpt
