@@ -51,3 +51,5 @@ I installed also [Github markup](https://github.com/github/markup). More about i
 More about the code highlight suport on [linguist page](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml).
 
 [Kramdown syntax](http://kramdown.gettalong.org/quickref.html#inline-code) - the default Markdown build settings for Jekyll
+
+[YAML Validator](http://www.yamllint.com/)
