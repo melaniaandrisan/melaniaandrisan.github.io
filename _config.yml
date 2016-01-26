@@ -16,7 +16,6 @@ twitter_username: melaniadanciu
 github_username:  melaniaandrisan
 
 # Build settings
-highlighter: true
 markdown: kramdown
 permalink: pretty
 
