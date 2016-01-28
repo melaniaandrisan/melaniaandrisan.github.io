@@ -6,10 +6,6 @@ categories: archive
 title: "And the journey starts"
 ---
 
-#### And the journey starts
-
-##### August 27, 2012 by mela
-
 I had this in mind for a long time; to have an english blog with everything interesting that I see and learn. Yesterday we published the site and now it is all up and running.
 
 The purpose of this blog is to keep track of things, to save resources, thoughts, images and remarks. To be able to come here and to see a nice story about presentations, or about user experience, scrum process  and new cool tools which appear all the time in our times. But it will not be all about technology, it will be also about trips, countries, food, books and photography.

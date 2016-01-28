@@ -6,11 +6,6 @@ categories: archive
 title: "Single Page Application"
 ---
 
-
-#### Single Page Application
-
-##### September 25, 2012 by mela
-
 To create the story and the context here we have the beginning: I am a Silverlight developer for almost five years, and I started developing native mobile apps for all 2 major platforms two years ago. After one year and a half I’ve got interested into mobile web development because I think that they are application which need naive code but they are application which don’t.
 
 Having this in the back of my head and also the announcements form Microsoft of MVC Mobile applications, the appearance of the new Java Script Frameworks like jQuery Mobile, Knockout.js, Backbone.js and other, I started reading more and more about this part of mobile development.
