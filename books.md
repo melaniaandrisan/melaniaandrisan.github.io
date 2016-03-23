@@ -4,7 +4,7 @@ title: Books
 permalink: /books/
 ---
 
-##### The technical/management books I read
+#### The technical/management books I read
 
 [Lean Enterprise: How High Performance Organizations Innovate at Scale][1]
 [Build Microservices][2]
@@ -12,7 +12,7 @@ permalink: /books/
 [Remote:Office Not Required][4]
 [The Art of Explanation: Making your Ideas, Products, and Services Easier to Understand][5]
 
-##### The parenting books I read
+#### The parenting books I read
 
 [Playful Parenting][6]
 [Parent Effectiveness Training: The Proven Program for Raising Responsible Children][7]
@@ -20,17 +20,17 @@ permalink: /books/
 [The Mother of all Pregnancy Books][9]
 [Children Learn what they Live][10]
 
-##### The creative books I read
+#### The creative books I read
 
 [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration][11]
 [Jony Ive: The Genius Behind Apple's Greatest Products][12]
 [Steve Jobs][13]
 
-##### The entertaining books I read
+#### The entertaining books I read
 
 [Eat, Pray, Love][14]
 
-##### The books about food I read
+#### The books about food I read
 
 [Eat Well, Lose Weight, While Breastfeeding: The Complete Nutrition Book for Nursing Mothers][15]
 [The China Study][16]
