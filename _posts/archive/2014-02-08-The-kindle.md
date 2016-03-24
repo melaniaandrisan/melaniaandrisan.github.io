@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: "2014-02-13 23:35:13 +0200"
+date: "2014-02-08 23:35:13 +0200"
 categories: archive
 title: "The Kindle"
 ---
