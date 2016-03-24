@@ -6,7 +6,7 @@ categories: archive
 title: "Think Different"
 ---
 
-![ThinkDifferent-Apple_Logo]({{ site.url }}/archive/assets/ThinkDifferent-Apple_Logo.jpg) I am a fan of Apple and Apple products for a long time now. I've seen a lot of videos about them, I read books about Apple and Steve  Jobs and a couple of minutes ago I realized what I really love at them; They appreciate the innovation, the game changers and the ones that are creasy enough to think they can [change the world][2].  And also how they choose their people:
+![ThinkDifferent-Apple_Logo]({{ site.url }}/assets/ThinkDifferent-Apple_Logo.jpg) I am a fan of Apple and Apple products for a long time now. I've seen a lot of videos about them, I read books about Apple and Steve  Jobs and a couple of minutes ago I realized what I really love at them; They appreciate the innovation, the game changers and the ones that are creasy enough to think they can [change the world][2].  And also how they choose their people:
 
 ##### "WE HIRE PEOPLE WHO WANT TO MAKE THE BEST THINGS IN THE WORLD." Steve Jobs
 
