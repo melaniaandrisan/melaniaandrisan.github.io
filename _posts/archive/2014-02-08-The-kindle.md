@@ -6,7 +6,7 @@ categories: archive
 title: "The Kindle"
 ---
 
-![The Kindle](/archive/assets/Kindle.jpg) 
+![The Kindle]({{ site.url }}/assets/Kindle.jpg)
 
 I have it for more than 10 days and I love it. I also tried the previous versions and until now I always had problems with the refresh rate. With this one it is different, I cannot even realize the refresh when I read. Unfortunately, I do not have the 3G one because I would have waited for it more than three Months (apparently everybody wants it), but the Wi-Fi one works just fine.
 
