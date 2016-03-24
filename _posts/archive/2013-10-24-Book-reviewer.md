@@ -1,9 +1,9 @@
 ---
 published: true
 layout: post
-date: "2014-02-08 23:35:13 +0200"
+date: "2013-10-24 23:35:13 +0200"
 categories: archive
-title: "The Kindle"
+title: "Book reviewer"
 ---
 
 Between my wedding and my honey moon I found some time to also review a Windows Phone 8 book: [Windows Phone 8 application development essentials][1].
@@ -21,4 +21,4 @@ I will get the final version as an E-book but also as a hard cover and I am look
 Happy reading!
 
 [1]:http://www.packtpub.com/windows-phone-8-application-development-essentials/book
-[2]:{{ site.url }}/assets/Kindle.jpg
+[2]:{{ site.url }}/assets/wp8.jpg
