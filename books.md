@@ -7,33 +7,49 @@ permalink: /books/
 #### The technical/management books I read
 
 [Lean Enterprise: How High Performance Organizations Innovate at Scale][1]
+
 [Build Microservices][2]
+
 [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses][3]
+
 [Remote:Office Not Required][4]
+
 [The Art of Explanation: Making your Ideas, Products, and Services Easier to Understand][5]
+
 
 #### The parenting books I read
 
 [Playful Parenting][6]
+
 [Parent Effectiveness Training: The Proven Program for Raising Responsible Children][7]
+
 [The Womanly Art of Breastfeeding][8]
+
 [The Mother of all Pregnancy Books][9]
+
 [Children Learn what they Live][10]
+
 
 #### The creative books I read
 
 [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration][11]
+
 [Jony Ive: The Genius Behind Apple's Greatest Products][12]
+
 [Steve Jobs][13]
+
 
 #### The entertaining books I read
 
 [Eat, Pray, Love][14]
 
+
 #### The books about food I read
 
 [Eat Well, Lose Weight, While Breastfeeding: The Complete Nutrition Book for Nursing Mothers][15]
+
 [The China Study][16]
+
 
 [1]:http://amzn.to/1pIMTEW
 [2]:http://amzn.to/1T6Bf1T
