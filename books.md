@@ -3,17 +3,18 @@ layout: page
 title: Books Read
 permalink: /books/
 ---
+In 2015 I decided to share what I read, so here is a list with the books I read from 2015 to present. I read recommended books and with a good rating on GoodRead and Amazon. Usually I choose books in Kindle format because I can read them everywhere and every time. I am interesting in good parenting, architecture and management books.
 
-|The technical/management books I read|What I learned from them|
-|---|---|
+|The architecture&management books|What I learned from them|
+|---|-----|
 |[Lean Enterprise: How High Performance Organizations Innovate at Scale][1]|[The 10 things I Learned][review1]|
 |[Build Microservices][2]|[The 10 things I Learned][review2]|
 |[The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses][3]|[The 10 things I Learned][review3]
-|[Remote:Office Not Required][4]|[The 10 things I Learned][review4]|
-|[The Art of Explanation: Making your Ideas, Products, and Services Easier to Understand][5]|[The 10 things I Learned][review5]|
+|[Remote:Office Not Required][4]|[The 10 things I Learned]|
+|[The Art of Explanation: Making your Ideas, Products, and Services Easier to Understand][5]|[The 10 things I Learned]|
 
 
-#### The parenting books I read
+#### The parenting books
 
 [Playful Parenting][6]
 
@@ -26,7 +27,7 @@ permalink: /books/
 [Children Learn what they Live][10]
 
 
-#### The creative books I read
+#### The Inspiration books
 
 [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration][11]
 
@@ -35,12 +36,12 @@ permalink: /books/
 [Steve Jobs][13]
 
 
-#### The entertaining books I read
+#### The entertaining books
 
 [Eat, Pray, Love][14]
 
 
-#### The books about food I read
+#### The books about food
 
 [Eat Well, Lose Weight, While Breastfeeding: The Complete Nutrition Book for Nursing Mothers][15]
 
@@ -83,8 +84,8 @@ REST in Practice
 [16]:http://amzn.to/1XO2Y6C
 
 [review1]:[http://readlearnlovedo.tumblr.com/post/118768110441/lean-enterprise]
-[review2]:[]
-[review3]:[]
+[review2]:[http://readlearnlovedo.tumblr.com/post/141256400201/building-microservices]
+[review3]:[http://readlearnlovedo.tumblr.com/post/107692798231/the-lean-statup]
 [review4]:[]
 [review5]:[]
 [review6]:[]
