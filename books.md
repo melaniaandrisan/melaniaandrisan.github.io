@@ -7,11 +7,10 @@ permalink: /books/
 |The technical/management books I read|What I learned from them|
 |---|---|
 |[Lean Enterprise: How High Performance Organizations Innovate at Scale][1]|[The 10 things I Learned][review1]|
-|[Build Microservices][2]|[review][]|
-|[The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses][3]|[The 10 things I Learned][review2]
-|[Remote:Office Not Required][4]|[The 10 things I Learned][review3]|
-
-[The Art of Explanation: Making your Ideas, Products, and Services Easier to Understand][5]
+|[Build Microservices][2]|[The 10 things I Learned][review2]|
+|[The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses][3]|[The 10 things I Learned][review3]
+|[Remote:Office Not Required][4]|[The 10 things I Learned][review4]|
+|[The Art of Explanation: Making your Ideas, Products, and Services Easier to Understand][5]|[The 10 things I Learned][review5]|
 
 
 #### The parenting books I read
@@ -83,4 +82,19 @@ REST in Practice
 [15]:http://amzn.to/1T6DOAW
 [16]:http://amzn.to/1XO2Y6C
 
-[review1][http://readlearnlovedo.tumblr.com/post/118768110441/lean-enterprise]
+[review1]:[http://readlearnlovedo.tumblr.com/post/118768110441/lean-enterprise]
+[review2]:[]
+[review3]:[]
+[review4]:[]
+[review5]:[]
+[review6]:[]
+[review7][]
+[review8][]
+[review9][]
+[review0][]
+[review1][]
+[review2][]
+[review3][]
+[review4][]
+[review5][]
+[review6][]
