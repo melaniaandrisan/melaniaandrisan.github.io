@@ -1,18 +1,15 @@
 ---
 layout: page
-title: Books
+title: Books Read
 permalink: /books/
 ---
 
-#### The technical/management books I read
-
-[Lean Enterprise: How High Performance Organizations Innovate at Scale][1]
-
-[Build Microservices][2]
-
-[The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses][3]
-
-[Remote:Office Not Required][4]
+|The technical/management books I read|What I learned from them|
+|---|---|
+|[Lean Enterprise: How High Performance Organizations Innovate at Scale][1]|[The 10 things I Learned][review1]|
+|[Build Microservices][2]|[review][]|
+|[The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses][3]|[The 10 things I Learned][review2]
+|[Remote:Office Not Required][4]|[The 10 things I Learned][review3]|
 
 [The Art of Explanation: Making your Ideas, Products, and Services Easier to Understand][5]
 
@@ -50,6 +47,24 @@ permalink: /books/
 
 [The China Study][16]
 
+#### Books reading
+Good Strategy/Bad Strategy
+
+Domain Driven Design
+
+#### Books I want to read
+Design for the Internet of Things
+
+The Architecture of Open Source Applications
+
+How will you measure your life
+
+Lean Software Development: And Agile Toolkit
+
+Release It! Design and Deploy Production-Ready Software
+
+REST in Practice
+
 
 [1]:http://amzn.to/1pIMTEW
 [2]:http://amzn.to/1T6Bf1T
@@ -67,3 +82,5 @@ permalink: /books/
 [14]:http://amzn.to/1XO2HAH
 [15]:http://amzn.to/1T6DOAW
 [16]:http://amzn.to/1XO2Y6C
+
+[review1][http://readlearnlovedo.tumblr.com/post/118768110441/lean-enterprise]
