@@ -10,8 +10,8 @@ In 2015 I decided to share what I read, so here is a list with the books I read 
 |[Lean Enterprise: How High Performance Organizations Innovate at Scale][1]|[The 10 things I Learned][review1]|
 |[Build Microservices][2]|[The 10 things I Learned][review2]|
 |[The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses][3]|[The 10 things I Learned][review3]
-|[Remote:Office Not Required][4]|[The 10 things I Learned]|
-|[The Art of Explanation: Making your Ideas, Products, and Services Easier to Understand][5]|[The 10 things I Learned]|
+|[Remote:Office Not Required][4]| |
+|[The Art of Explanation: Making your Ideas, Products, and Services Easier to Understand][5]||
 
 
 #### The parenting books
@@ -47,10 +47,13 @@ In 2015 I decided to share what I read, so here is a list with the books I read 
 
 [The China Study][16]
 
-#### Books reading
 Good Strategy/Bad Strategy
 
 Domain Driven Design
+
+#### Books reading
+
+[When: The Scientific Secrets of Perfect Timing][17]
 
 #### Books I want to read
 Design for the Internet of Things
@@ -82,20 +85,7 @@ REST in Practice
 [14]:http://amzn.to/1XO2HAH
 [15]:http://amzn.to/1T6DOAW
 [16]:http://amzn.to/1XO2Y6C
-
-[review1]:[http://readlearnlovedo.tumblr.com/post/118768110441/lean-enterprise]
-[review2]:[http://readlearnlovedo.tumblr.com/post/141256400201/building-microservices]
-[review3]:[http://readlearnlovedo.tumblr.com/post/107692798231/the-lean-statup]
-[review4]:[]
-[review5]:[]
-[review6]:[]
-[review7][]
-[review8][]
-[review9][]
-[review0][]
-[review1][]
-[review2][]
-[review3][]
-[review4][]
-[review5][]
-[review6][]
+[17]:https://www.amazon.ca/When-Scientific-Secrets-Perfect-Timing/dp/0735210624/ref=sr_1_1?ie=UTF8&qid=1531611926&sr=8-1&keywords=daniel+pink
+[review1]:http://readlearnlovedo.tumblr.com/post/118768110441/lean-enterprise
+[review2]:http://readlearnlovedo.tumblr.com/post/141256400201/building-microservices
+[review3]:http://readlearnlovedo.tumblr.com/post/107692798231/the-lean-statup
