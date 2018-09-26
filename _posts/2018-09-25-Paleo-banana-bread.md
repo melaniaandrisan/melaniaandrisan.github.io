@@ -47,6 +47,14 @@ This bread is one of my little girl favorites. Is fluffly, moist, with a thin cr
 4. Put the mix in a 9/5 tray and add the tray in the heated oven
 5. Bake for 50 to 55 minutes or untill your tooth pick comes clean(I checked at around 40 minutes and it was not done at all - probably if you have fresh bananas at 40 minutes will be already done)  
 
+### Serve
+
+We love it warmed up a little and some butter on top or just plain.
+
+### Store
+
+You can store it in an air tight container for more than 3 days in the fridge or slice it and put it in the frizzer for up to 3 month. 
+
 ### Nutritional Facts
 Total Servings: 12 slices
 
