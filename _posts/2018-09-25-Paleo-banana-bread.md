@@ -50,9 +50,9 @@ This bread is one of my little girl favorites. Is fluffly, moist, with a thin cr
 ### Nutritional Facts
 Total Servings: 12 slices
 
-Serving Size: 1 slice (43 g)
+**Serving Size: 1 slice (43 g)**
 
-Amount Per Serving
+**Amount Per Serving**
 
 - **Calories:** 51.6 kcal
 - **Total Fat:** 1.9g
