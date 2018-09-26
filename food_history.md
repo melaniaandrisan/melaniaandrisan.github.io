@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Books Read
+title: Cook Book
 permalink: /foodhistory/
 ---
 
