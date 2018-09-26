@@ -12,6 +12,7 @@ title: "Paleo Almond Butter Banana Bread"
     ![Banana_bread]({{ site.url }}/assets/paleo_banana_bread.JPG)
     </div>
     <div style="display: inline-block;">
+        
 ### Ingredients
 
 - 3 big bananas frozen or fresh
@@ -28,5 +29,6 @@ title: "Paleo Almond Butter Banana Bread"
 3. Add all the other ingredients and mix well
 4. Put them in a 5/9 tray 
 5. Bake for 55 minutes or till your tooth pick is clean(I checked around 40 minutes and it was not done at all - probably if you have fresh bananas at 40 minutes will be already done)  
+
     </div>
 </div>
