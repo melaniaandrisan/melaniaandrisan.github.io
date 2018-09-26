@@ -26,4 +26,4 @@ title: "Paleo Almond Butter Banana Bread"
 5. Bake for 55 minutes or till your tooth pick is clean(I checked around 40 minutes and it was not done at all - probably if you have fresh bananas at 40 minutes will be already done)  
 
 
-[Paleo Bread]({{ site.url }}/assets/paleo_banana_bread.JPG)
+![Paleo Bread]({{ site.url }}/assets/paleo_banana_bread.JPG)
