@@ -31,7 +31,7 @@ This bread is one of my little girl favorites. Is fluffly, moist, with a thin cr
 ### Ingredients
 (Tip: check the ones you already added to your ball )
 
-- [ ] 3 big bananas frozen or fresh
+- [x] 3 big bananas frozen or fresh
 - [ ] 3 large eggs
 - [ ] 1 cup nuts butter (which one you like, I choose almond and chuncy peanut butter)
   - 1/2 almond butter 
