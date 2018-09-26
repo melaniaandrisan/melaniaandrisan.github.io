@@ -31,14 +31,14 @@ This bread is one of my little girl favorites. Is fluffly, moist, with a thin cr
 ### Ingredients
 (Tip: check the ones you already added to your ball )
 
-- [x] 3 big bananas frozen or fresh
-- [ ] 3 large eggs
-- [ ] 1 cup nuts butter (which one you like, I choose almond and chuncy peanut butter)
+- 3 big bananas frozen or fresh
+- 3 large eggs
+- 1 cup nuts butter (which one you like, I choose almond and chuncy peanut butter)
   - 1/2 almond butter 
   - 1/2 peanut butter
-- [ ] 3/4 teaspoons backing powder
-- [ ] 1/4 teaspoons nutmeg
-- [ ] 2/4 teaspoons ground cinnamon
+- 3/4 teaspoons backing powder
+- 1/4 teaspoons nutmeg
+- 2/4 teaspoons ground cinnamon
 
 ### Directions
 1. Preheat the oven to 350 F or 180 C
