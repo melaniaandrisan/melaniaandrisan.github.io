@@ -16,9 +16,7 @@ This bread is one of my little girl favorites. Is fluffly, moist, with a thin cr
 - 50-55 minutes for frozen bananas
 - 40-45 minutes for fresh ones
 
-
 **Servings**: 12 slices
-
 
 ![Paleo Bread]({{ site.url }}/assets/paleo_banana_bread.JPG)
 
@@ -32,8 +30,6 @@ This bread is one of my little girl favorites. Is fluffly, moist, with a thin cr
 - parchment paper (or butter for the tray)
 
 ### Ingredients
-(Tip: check the ones you already added to your ball )
-
 - 3 big bananas frozen or fresh
 - 3 large eggs
 - 1 cup nuts butter (which one you like, I choose almond and chuncy peanut butter)
@@ -51,11 +47,9 @@ This bread is one of my little girl favorites. Is fluffly, moist, with a thin cr
 5. Bake for 50 to 55 minutes or untill your tooth pick comes clean(I checked at around 40 minutes and it was not done at all - probably if you have fresh bananas at 40 minutes will be already done)  
 
 ### Serve
-
 We love it warmed up a little with some butter on top or just plain, is just delicios and perfect for an automn evening with a nice cup of tea.
 
 ### Store
-
 You can store it in an air tight container for more than 3 days in the fridge or slice it and put it in the frizzer for up to 3 month. 
 
 ### Nutritional Facts
