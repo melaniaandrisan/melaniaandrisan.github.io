@@ -24,6 +24,9 @@ This bread is one of my little girl favorites. Is fluffly, moist, with a thin cr
 
 ### Utensils
 - blender (or a fork and a wisk)
+- large bowl 
+- mesuring cups
+- mesuring spoons
 - spatula
 - baking tray 9 inch /5 inch 
 - parchment paper (or butter for the tray)
