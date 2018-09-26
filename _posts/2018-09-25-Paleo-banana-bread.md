@@ -49,7 +49,7 @@ This bread is one of my little girl favorites. Is fluffly, moist, with a thin cr
 
 ### Serve
 
-We love it warmed up a little and some butter on top or just plain.
+We love it warmed up a little with some butter on top or just plain, is just delicios and perfect for an automn evening with a nice cup of tea.
 
 ### Store
 
