@@ -8,11 +8,14 @@ title: "Paleo Almond Butter Banana Bread"
 
 ---
 
-This is one of my little one favorites. Is fluffly, moist, with a thin crust and easy to handle by her small hands.
+This bread is one of my little girl favorites. Is fluffly, moist, with a thin crust and easy to handle by her small hands.
 
 **Prep Time**: 5 minutes
 
-**Cook time**: 50 to 55 minutes fot frozen bananas/40-45 minutes for fresh
+**Cook time**:
+- 50-55 minutes for frozen bananas
+- 40-45 minutes for fresh ones
+
 
 **Servings**: 12 slices
 
@@ -45,16 +48,18 @@ This is one of my little one favorites. Is fluffly, moist, with a thin crust and
 5. Bake for 50 to 55 minutes or untill your tooth pick comes clean(I checked at around 40 minutes and it was not done at all - probably if you have fresh bananas at 40 minutes will be already done)  
 
 ### Nutritional Facts
-Serving Size 1 slice (43 g)
+Total Servings: 12 slices
+
+Serving Size: 1 slice (43 g)
 
 Amount Per Serving
 
-- **Calories** 51.6 kcal
-- **Total Fat** 1.9g
-  - Saturated Fat 0.5g
-  - Trans Fat 0g
-- **Total Carbohydrates** 7.2g
-  - Dietary Fiber 0.9 g
-  - Sugars 3.8 g
-- **Proteine** 2.1g
+- **Calories:** 51.6 kcal
+- **Total Fat:** 1.9g
+  - Saturated Fat: 0.5g
+  - Trans Fat: 0g
+- **Total Carbohydrates:** 7.2g
+  - Dietary Fiber: 0.9 g
+  - Sugars: 3.8 g
+- **Proteine:** 2.1g
 
