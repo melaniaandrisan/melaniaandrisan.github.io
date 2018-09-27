@@ -19,7 +19,7 @@ asparagus.
 
 **Servings**: 8 slices
 
-![keto quiche]({{ site.url }}/assets/DSC02544.JPG)
+![keto quiche]({{ site.url }}/assets/DSC02541.JPG)
 
 ### Utensils
 - 1 chef knif
