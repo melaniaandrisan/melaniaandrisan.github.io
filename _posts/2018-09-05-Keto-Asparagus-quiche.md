@@ -44,16 +44,23 @@ This one is "cheesy" because of the nutritional yeast and a little bit sweet fro
 ### Directions
 1. Finely slice the onion and put it in the skillet with ~18 g of butter and let them on a medium heat for 15 minutes.
 Stir ocationaly. After 15 minutes turn the heat to low and let them 15 more minutes with a lid on. 
+![keto quiche]({{ site.url }}/assets/DSC02528.JPG)
 2. Meanwhile - preheat the oven to 350°F/180°C
 3. Grate the zucchini and place them in a colender over the sink
+![keto quiche]({{ site.url }}/assets/DSC02531.JPG)
 4. Chop the asparagus ~2 - 2.5 cm long and place it in the second pan on a medium hit together with the rest of butter ~17 g 
 and let it cook for about 10 to 12 minutes with a lid on.
+![keto quiche]({{ site.url }}/assets/DSC02532.JPG)
 5. When the onions are done (after about 30 minutes) place the zucchini on top together with salt a paper and let it cook 
 for about 5 minutes
+![keto quiche]({{ site.url }}/assets/DSC02533.JPG)
 6. Whisk the eggs together with some salt, nutritional yeast and milk
 7. Put the asparagus on top of the onions and zucchini
-8. Add the egg mixture on top and place it in the oven for about 30 to 35 minutes - or untill the middle is firm.
-
+![keto quiche]({{ site.url }}/assets/DSC02535.JPG)
+8. Add the egg mixture on top and place it in the oven 
+![keto quiche]({{ site.url }}/assets/DSC02536.JPG)
+9. Bake for about 30 to 35 minutes - or untill the middle is firm.
+![keto quiche]({{ site.url }}/assets/DSC02537.JPG)
 ### Serve
 Add some parsley on top and a dollop of creamy yogurt and you are set for a perfect brunch or dinner.
 
