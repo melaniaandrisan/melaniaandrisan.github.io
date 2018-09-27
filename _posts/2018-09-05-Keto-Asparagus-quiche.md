@@ -22,7 +22,7 @@ This one is "cheesy" because of the nutritional yeast and a little bit sweet fro
 ### Utensils
 - 1 chef knife
 - 1 cutting board
-- 1 oven-proof pan or 9 inch tray 
+- 1 oven-safe pan or 9 inch tray 
 - 1 pan
 - 1 large bowl
 - 1 wisk
