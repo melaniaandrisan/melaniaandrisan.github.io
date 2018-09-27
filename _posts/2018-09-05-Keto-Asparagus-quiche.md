@@ -97,3 +97,5 @@ Total Servings: 8 slices
   - Dietary Fiber: 2 g
   - Sugars: 3.9 g
 - **Proteine:** 10.7 g
+
+Got the idea from [savorylotus](https://www.savorylotus.com/crustless-caramelized-onion-and-asparagus-quiche/).
