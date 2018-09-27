@@ -54,8 +54,11 @@ You can store it in an airtight container for up to 3 days in the fridge or slic
 
 ### Nutritional Facts
 Total Servings: 12 slices
+
  **Serving Size: 1 slice (43 g)**
+ 
  **Amount Per Serving**
+ 
  - **Calories:** 51.6 kcal
 - **Total Fat:** 1.9g
   - Saturated Fat: 0.5g
