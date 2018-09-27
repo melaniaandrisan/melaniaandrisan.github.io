@@ -67,3 +67,5 @@ Total Servings: 12 slices
   - Dietary Fiber: 0.9 g
   - Sugars: 3.8 g
 - **Proteine:** 2.1g
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=5237593&measure=13321139&labelType=AMERICAN" frameborder="0"></iframe>
