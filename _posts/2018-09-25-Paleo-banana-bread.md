@@ -8,7 +8,7 @@ title: "Paleo Almond Butter Banana Bread"
 
 ---
 
-This bread is one of my little girl favorites. Is fluffly, moist, with a thin crust and easy to handle by her small hands.
+This bread is one of my little girl's favorites. Is fluffy, moist, with a thin crust and easy to handle by her small hands.
 
 **Prep Time**: 5 minutes
 
@@ -23,34 +23,34 @@ This bread is one of my little girl favorites. Is fluffly, moist, with a thin cr
 ### Utensils
 - blender (or a fork and a wisk)
 - large bowl 
-- mesuring cups
-- mesuring spoons
+- measuring cups
+- measuring spoons
 - spatula
-- baking tray 9 inch /5 inch 
+- baking tray 9x5 inch
 - parchment paper (or butter for the tray)
 
 ### Ingredients
 - 3 big bananas frozen or fresh
 - 3 large eggs
-- 1 cup nuts butter (which one you like, I choose almond and chuncy peanut butter)
+- 1 cup nut butter (which one you like, I chose almond and chunky peanut butter)
   - 1/2 almond butter 
   - 1/2 peanut butter
-- 3/4 teaspoons backing powder
+- 3/4 teaspoons baking powder
 - 1/4 teaspoons nutmeg
 - 2/4 teaspoons ground cinnamon
 
 ### Directions
-1. Preheat the oven to 350 F or 180 C
-2. Put the bananas and the eggs in a blender and mix till smooth
+1. Preheat the oven to 350°F/180°C, place the parchment paper in the tray
+2. Put the bananas and the eggs in a blender and mix until smooth
 3. Add all the other ingredients and mix well
-4. Put the mix in a 9/5 tray and add the tray in the heated oven
-5. Bake for 50 to 55 minutes or untill your tooth pick comes clean(I checked at around 40 minutes and it was not done at all - probably if you have fresh bananas at 40 minutes will be already done)  
+4. Put the mix in a 9/5 tray and add the tray in the preheated oven
+5. Bake for 50 to 55 minutes or until a toothpick comes out clean (I checked at around 40 minutes and it was not done at all - probably if you have fresh bananas at 40 minutes it will be already be done)
 
 ### Serve
-We love it warmed up a little with some butter on top or just plain, is just delicios and perfect for an automn evening with a nice cup of tea.
+We love it warmed up a little with some butter on top or just plain, is just delicios and perfect for an autumn evening with a nice cup of tea.
 
 ### Store
-You can store it in an air tight container for more than 3 days in the fridge or slice it and put it in the frizzer for up to 3 month. 
+You can store it in an airtight container for up to 3 days in the fridge or slice it and put it in the freezer for up to 3 months. 
 
 ### Nutritional Facts
 Total Servings: 12 slices
@@ -67,4 +67,3 @@ Total Servings: 12 slices
   - Dietary Fiber: 0.9 g
   - Sugars: 3.8 g
 - **Proteine:** 2.1g
-
