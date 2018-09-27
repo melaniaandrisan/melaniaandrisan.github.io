@@ -52,8 +52,6 @@ We love it warmed up a little with some butter on top or just plain, is just del
 ### Store
 You can store it in an airtight container for up to 3 days in the fridge or slice it and put it in the freezer for up to 3 months. 
 
-<object data="https://cronometer.com/facts.html?food=5237593&measure=13321139&labelType=AMERICAN" width="320" height="540" type="text/html">
-
 ### Nutritional Facts
 Total Servings: 12 slices
  **Serving Size: 1 slice (43 g)**
@@ -65,8 +63,6 @@ Total Servings: 12 slices
 - **Total Carbohydrates:** 7.2g
   - Dietary Fiber: 0.9 g
   - Sugars: 3.8 g
-- **Protein:** 2.1g
-
-</object>
+- **Protein:** 2.1 g
 
 
