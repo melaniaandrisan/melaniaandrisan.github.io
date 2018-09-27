@@ -5,68 +5,58 @@ permalink: /books/
 ---
 In 2015 I decided to share what I read, so here is a list with the books I read from 2015 to present. I read recommended books and with a good rating on GoodRead and Amazon. Usually I choose books in Kindle format because I can read them everywhere and every time. I am interesting in good parenting, architecture and management books.
 
-|The architecture&management books|What I learned from them|
-|---|-----|
-|[Lean Enterprise: How High Performance Organizations Innovate at Scale][1]|[The 10 things I Learned][review1]|
-|[Build Microservices][2]|[The 10 things I Learned][review2]|
-|[The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses][3]|[The 10 things I Learned][review3]
-|[Remote:Office Not Required][4]| |
-|[The Art of Explanation: Making your Ideas, Products, and Services Easier to Understand][5]||
+#### The architecture&management books
+
+- [Lean Enterprise: How High Performance Organizations Innovate at Scale][1] - [The 10 things I Learned][review1]
+- [Build Microservices][2] - [The 10 things I Learned][review2]
+- [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses][3] - [The 10 things I Learned][review3]
+- [Remote:Office Not Required][4] 
+- [The Art of Explanation: Making your Ideas, Products, and Services Easier to Understand][5]
 
 
 #### The parenting books
 
-[Playful Parenting][6]
-
-[Parent Effectiveness Training: The Proven Program for Raising Responsible Children][7]
-
-[The Womanly Art of Breastfeeding][8]
-
-[The Mother of all Pregnancy Books][9]
-
-[Children Learn what they Live][10]
+- [Playful Parenting][6]
+- [Parent Effectiveness Training: The Proven Program for Raising Responsible Children][7]
+- [The Womanly Art of Breastfeeding][8]
+- [The Mother of all Pregnancy Books][9]
+- [Children Learn what they Live][10]
 
 
 #### The Inspiration books
 
-[Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration][11]
-
-[Jony Ive: The Genius Behind Apple's Greatest Products][12]
-
-[Steve Jobs][13]
+- [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration][11]
+- [Jony Ive: The Genius Behind Apple's Greatest Products][12]
+- [Steve Jobs][13]
 
 
 #### The entertaining books
 
-[Eat, Pray, Love][14]
+- [Eat, Pray, Love][14]
 
 
 #### The books about food
 
-[Eat Well, Lose Weight, While Breastfeeding: The Complete Nutrition Book for Nursing Mothers][15]
+-[Eat Well, Lose Weight, While Breastfeeding: The Complete Nutrition Book for Nursing Mothers][15]
+- [The China Study][16]
 
-[The China Study][16]
+#### Misc
 
-Good Strategy/Bad Strategy
-
-Domain Driven Design
+- Good Strategy/Bad Strategy
+- Domain Driven Design
 
 #### Books reading
 
-[When: The Scientific Secrets of Perfect Timing][17]
+- [When: The Scientific Secrets of Perfect Timing][17]
 
 #### Books I want to read
-Design for the Internet of Things
 
-The Architecture of Open Source Applications
-
-How will you measure your life
-
-Lean Software Development: And Agile Toolkit
-
-Release It! Design and Deploy Production-Ready Software
-
-REST in Practice
+- Design for the Internet of Things
+- The Architecture of Open Source Applications
+- How will you measure your life
+- Lean Software Development: And Agile Toolkit
+- Release It! Design and Deploy Production-Ready Software
+- REST in Practice
 
 
 [1]:http://amzn.to/1pIMTEW
