@@ -1,6 +1,6 @@
 ---
 
-published: false
+published: true
 layout: post
 date: "2018-09-30 23:30:10 +0200"
 categories: Food
@@ -8,7 +8,7 @@ title: "Keto Avocado Brownies Gluten Free Dairy Free"
 
 ---
 
-Moist, crunchy and chocolaty, the perfect desert together with some ice cream or wipped cream.
+Moist, crunchy and chocolaty, the perfect desert together with some ice cream or whipped cream.
 
 **Prep Time**: 5 minutes
 
@@ -25,12 +25,12 @@ Moist, crunchy and chocolaty, the perfect desert together with some ice cream or
 
 ### Ingredients
 - 2 creamy Avocados ~ 270 g  
-- 60 g Cooconut Oil (1/4 cups)
-- 70 g Almond Butter  (1/4 cups)
+- 60 g Coconut Oil (1/4 cups)
+- 70 g Almond Butter (1/4 cups)
 - 3 large eggs (~150 g)
 - 70 g cocoa powder (1/2 cups)
 - 70 g Swerve (1/2 cups)
-- 3 grams vanila extract (~1 teaspoon)
+- 3 grams vanilla extract (~1 teaspoon)
 - Toppings: chocolate chips, nuts, cocoa nibs or whatever you like
 
 ![Ingredients]({{ site.url }}/assets/keto_avocado_brownie/ingredients.JPG)
@@ -45,7 +45,7 @@ Moist, crunchy and chocolaty, the perfect desert together with some ice cream or
 ![In the tray]({{ site.url }}/assets/keto_avocado_brownie/final_in_tray.JPG)
 
 ### Serve
-Serve with as is or add some ice cream or some wipped cream. Delicios!
+Serve with as is or add some ice cream or some whipped cream. Delicious!
 ![Serve]({{ site.url }}/assets/keto_avocado_brownie/serve.JPG)
 
 ### Store
@@ -68,5 +68,4 @@ Total Servings: 12 muffins
 - **Proteine:** 4.2 g
 
 
-Inspiration from [staysnatched](https://www.staysnatched.com/flourless-keto-avocado-chocolate-brownies-dairy-free-paleo-gluten-free/
-knn n,`1123456gf7f8h9po=o}O)
+Inspiration from [staysnatched.com](https://www.staysnatched.com/flourless-keto-avocado-chocolate-brownies-dairy-free-paleo-gluten-free/).
