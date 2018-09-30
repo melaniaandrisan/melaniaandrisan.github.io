@@ -14,10 +14,11 @@ permalink: /foodhistory/
   <tr>
     <td width="(100/3)%">
         <a href="http://mela.ro/food/2018/09/25/Paleo-banana-bread/">Paleo Banana Almond Butter bread</a>
-        <img src="{{ site.url }}/assets/paleo_banana_bread.JPG" alt="Paleo Banana Almond Butter bread"/>
+        <img src="{{ site.url }}/assets/paleo_banana_bread/serve.JPG" alt="Paleo Banana Almond Butter bread"/>
     </td>
     <td width="(100/3)%">
         <a href="http://mela.ro/food/2018/09/26/Keto-Asparagus-quiche/">Keto Asparagus quiche</a>
+        <p . />
         <img src="{{ site.url }}/assets/keto_quiche/serve.JPG" alt="Keto Asparagus quiche"/>
     </td> 
     <td width="(100/3)%">
