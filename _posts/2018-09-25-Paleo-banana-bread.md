@@ -18,7 +18,7 @@ This bread is one of my little girl's favorites. Is fluffy, moist, with a thin c
 
 **Servings**: 12 slices
 
-![Paleo Bread]({{ site.url }}/assets/paleo_banana_bread.JPG)
+![Paleo Bread]({{ site.url }}/assets/paleo_banana_bread/main.JPG)
 
 ### Utensils
 - blender (or a fork and a wisk)
