@@ -16,7 +16,7 @@ A very colorful and tasty plate for you and your family. Creamy, crispy salmon a
 
 **Servings**: 4 portions
 
-![photo name]({{ site.url }}/assets/salmon/main.JPG)
+![photo name]({{ site.url }}/assets/salmon/main.jpg)
 
 ### Utensils
 - 1 chef knife
