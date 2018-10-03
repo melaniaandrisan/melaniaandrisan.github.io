@@ -27,4 +27,27 @@ permalink: /foodhistory/
         <a href="http://mela.ro/food/2018/09/30/keto-avocado-brownies/">Keto Avocado Brownies Gluten Free Dairy Free</a>
     </td>
   </tr>
+
+  <tr>
+    <td width="(100/3)%">
+        <img src="{{ site.url }}/assets/cauliflower_rice.jpg" alt="Keto Cauliflower Rice"/>
+    </td>
+    <td width="(100/3)%">
+        <img src="{{ site.url }}/assets/salmon/main.jpg" alt="Tuscan Salmon"/>
+    </td> 
+    <td width="(100/3)%">
+    </td>
+  </tr>
+  <tr>
+    <td width="(100/3)%">
+        <a href="http://mela.ro/food/2018/10/03/Cauliflower-Rice/">Keto Cauliflower Rice</a>
+    </td>
+    <td width="(100/3)%">
+        <a href="http://mela.ro/food/2018/09/27/Toscan_Salmon/">Tuscan Salmon</a>
+    </td>
+    <td width="(100/3)%">
+        <a href=""></a>
+    </td>
+  </tr>
+
 </table>
