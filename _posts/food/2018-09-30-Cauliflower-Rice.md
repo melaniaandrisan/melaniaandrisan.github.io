@@ -17,7 +17,7 @@ Crispy, yummy, "cheesy" and ready in 10 minutes.
 
 **Servings**: 2
 
-![photo name]({{ site.url }}/assets/cauliflower_rice.JPG)
+![photo name]({{ site.url }}/assets/cauliflower_rice.jpg)
 
 ### Utensils
 - 1 pan with a lid
