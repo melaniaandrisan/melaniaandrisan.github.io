@@ -24,15 +24,15 @@ A very colorful and tasty plate for you and your family. Creamy, crispy salmon a
 - 1 large pan
 
 ### Ingredients
-- 2 tablespoons extra-virgin olive oil
-- 4 (6-oz) salmon fillets, patted dry with paper towels
-- 3 tablespoons unsalted butter
-- 3 cloves garlic, minced
-- 1 1/2 cups halved cherry tomatoes
-- 2 cups baby spinach
-- 1/2 cups heavy cream
-- 1/4 cups Parmesan
-- 1/4 cups chopped basil and parsley
+- 30 ml extra-virgin olive oil or avocado oil (~2 tb spoons)
+- 4 (of 160 g) salmon fillets, patted dry with paper towels
+- 40 g unsalted butter (~ 3 tb spoons)
+- 3 cloves garlic, minced 
+- 220 g halved cherry tomatoes (~1 and 1/2 cups)
+- 50 g fresh baby spinach (~ 2 cups)
+- 60 g heavy cream (1/4 cups)
+- 25 g Parmesan
+- 10 g chopped basil and parsley (1/4 cups)
 - salt
 - Freshly ground black pepper
 
@@ -47,23 +47,23 @@ A very colorful and tasty plate for you and your family. Creamy, crispy salmon a
 8. Add the salmon and you are done  
 
 ### Serve
-We had it with cauliflower rice, you can have it with also with zucchini nudles, steamed vagetables, polenta.
+We had it with [Cauliflower Rice](http://mela.ro/food/2018/10/03/Cauliflower-Rice/), you can have it also with zucchini nudles, steamed vagetables or polenta.
 
 ### Store
-Place it an airtight container and store it in the fridge for up to 3 days.
+Place it an airtight container and store it in the fridge for up to 3 days. If you are planning to eat it later I recomand store the souce in one container and the salmon in another and when you want to eat them hit them up together in a pan.
 
 ### Nutritional Facts
-Total Servings: 
+Total Servings: 4
 
 **Serving Size: 1 salmon file with 1/4 of the souce **
 
 **Amount Per Serving**
 
-- **Calories:**  521.3 kcal
-- **Total Fat:** 35.1 g
+- **Calories:**  525.7 kcal
+- **Total Fat:** 35.3 g
   - Saturated Fat: 11.8 g
   - Trans Fat: 0.5 g
-- **Total Carbohydrates:** 4.1 g
+- **Total Carbohydrates:** 4.2 g
   - Dietary Fiber: 1 g
   - Sugars: 2 g
-- **Proteine:** 45.8 g
+- **Proteine:** 46.4 g
