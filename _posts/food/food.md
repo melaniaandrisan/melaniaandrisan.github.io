@@ -43,6 +43,6 @@ Total Servings:
 - **Total Carbohydrates:** g
   - Dietary Fiber:  g
   - Sugars: g
-- **Proteine:** g
+- **Protein:** g
 
 Inspiration 

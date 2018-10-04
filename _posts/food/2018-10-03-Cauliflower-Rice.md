@@ -17,7 +17,7 @@ Crispy, yummy, "cheesy" and ready in 10 minutes.
 
 **Servings**: 2
 
-![photo name]({{ site.url }}/assets/cauliflower_rice.jpg)
+![cauliflower rice]({{ site.url }}/assets/cauliflower_rice.jpg)
 
 ### Utensils
 - 1 pan with a lid
@@ -25,11 +25,11 @@ Crispy, yummy, "cheesy" and ready in 10 minutes.
 - 1 spatula
 
 ### Ingredients
-- 370 g Cauliflower
-- 42 ml Extra Vergine Coconut Oil (~3 tb spoons)
-- 24 g Nutritional Yeast (~2 tb spoons)
-- Salt - If you spices are wirg salt already there is no need to add extra salt
-- 1 teaspoon Greek Spice or Italian Spice (basil, rosmary, parsly, salt and peper if you do not have already the mix)
+- 370 g cauliflower
+- 42 ml extra virgin coconut oil (~3 tablespoons)
+- 24 g nutritional yeast (~2 tablespoons)
+- Salt - If you spices contain salt already there is no need to add extra salt
+- 1 teaspoon Greek seasoning or Italian seasoning (basil, rosmary, parsley, salt and pepper if you do not have them ready-mixed)
 
 ### Directions
 1. Add the oil in the pan and put it on a meadium hit 
