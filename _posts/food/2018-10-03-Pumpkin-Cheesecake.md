@@ -20,6 +20,9 @@ The perfect creamy automn desert.
 ![pumpkin cheesecake]({{ site.url }}/assets/pumpkin_cheesecake/main.JPG)
 
 ### Utensils
+- spatula
+- pie tray
+- mixer
 
 ### Ingredients
 Crust:
