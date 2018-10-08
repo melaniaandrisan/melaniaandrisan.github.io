@@ -11,7 +11,7 @@ title: "Keto Pumpkin cheesecake"
 The perfect creamy automn desert. The entire home smells like pumpkin spiece as well as your desert plate.   
 
 
-**Prep Time**: 110-15 minutes
+**Prep Time**: 10-15 minutes
 
 **Cook time**: 60 minutes
 
@@ -34,7 +34,7 @@ Crust:
 Cream:
 - 680 g cream cheese
 - 400 g pumpkin pure
-- 115 g g swerve
+- 115 g g swerve (or your sweetener)
 - 30 g flex meal
 - 3 eggs
 - 1 tablespoon of pumpkin pie spice(cinnamon, nutmeg, ginger and cloves powder)
@@ -43,10 +43,10 @@ Cream:
 
 ### Directions
 1. Set up the oven at 180 C or 350 F
-2. Make the crust by plaicing all the ingredients in a pie tray
-3. Bake for 10 minutes
-4. Take the second bowl and place the cream cheese and the swerve in it
-5. Mix them well together and add the pumpkin pure, flex meal eggs and spieces and continue mixing for another minute. Make sure your mixer is on the medium speed and, please do not overbeat.
+2. Add all the crust ingredients in a bowl and mix them well
+2. Place the mixture in a pie tray and bake for 10 minutes
+4. Take the second bowl and place the cream cheese and the swerve in it and mix them well
+5. Add the pumpkin pure, flex meal eggs and spieces and continue mixing for another minute. Make sure your mixer is on the medium speed and, please do not overbeat.
 6. Add the mixture over the crust an bake another 50 to 60 minutes. 
 
 ![out of the oven]({{ site.url }}/assets/pumpkin_cheesecake/out_of_the_oven.JPG)
