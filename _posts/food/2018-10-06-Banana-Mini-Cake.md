@@ -29,7 +29,7 @@ Crunchy and chocolaty, fluffy, with baking powder, or moist, without it.
 - 70 g Almond Butter (1/4 cups)
 - 3 large eggs (~150 g)
 - 70 g cocoa powder (1/2 cups)
-- 10 drops of stevia
+- 10 drops of stevia (Optional)
 - 3 grams vanilla extract (~1 teaspoon)
 - 5 g baking powder (~1 teaspoon) - Optional: If you like your cakes fluffy add it, if not omit it. 
 - Toppings: chocolate chips, nuts, cocoa nibs or whatever you like
