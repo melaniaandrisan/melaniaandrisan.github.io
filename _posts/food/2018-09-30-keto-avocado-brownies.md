@@ -14,7 +14,7 @@ Moist, crunchy and chocolaty, the perfect desert together with some ice cream or
 
 **Cook time**: 20-22 minutes 
 
-**Servings**: 12 slices
+**Servings**: 12 muffins
 
 ![Brownies]({{ site.url }}/assets/keto_avocado_brownie/main.JPG)
 

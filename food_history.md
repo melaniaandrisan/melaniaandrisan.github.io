@@ -30,7 +30,7 @@ permalink: /foodhistory/
 
   <tr>
     <td width="(100/3)%">
-        <img src="{{ site.url }}/assets/cauliflower_rice.jpg" alt="Keto Cauliflower Rice"/>
+        <img src="{{ site.url }}/assets/cauliflower_rice/main.JPG" alt="Keto Cauliflower Rice"/>
     </td>
     <td width="(100/3)%">
         <img src="{{ site.url }}/assets/salmon/main.jpg" alt="Tuscan Salmon"/>
