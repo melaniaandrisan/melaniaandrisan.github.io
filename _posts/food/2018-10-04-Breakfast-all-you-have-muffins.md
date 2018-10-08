@@ -20,6 +20,9 @@ Moist, delicios and rady in no time. And taram, you have the fridge ready for a 
 ![main]({{ site.url }}/assets/all_you_have_muffins/main.JPG)
 
 ### Utensils
+- mini-cakes/brownies tray
+- mixer
+- spatula
 
 ### Ingredients
 - 214 g zucchini
