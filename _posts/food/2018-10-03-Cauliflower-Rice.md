@@ -17,7 +17,7 @@ Crispy, yummy, "cheesy" and ready in 10 minutes.
 
 **Servings**: 2
 
-![cauliflower rice]({{ site.url }}/assets/cauliflower_rice/main.jpg)
+![cauliflower rice]({{ site.url }}/assets/cauliflower_rice/main.JPG)
 
 ### Utensils
 - 1 pan with a lid
@@ -35,12 +35,14 @@ Crispy, yummy, "cheesy" and ready in 10 minutes.
 1. Add the oil in the pan and put it on a meadium hit 
 3. Add the cauliflower in the blender and blend for 20 seconds or till you see the cauliflower looking like the rice you like
 3. Place the cauliflower in the pan and together with salt and spices, give it a good stir and place the lid on top
+![cauliflower rice]({{ site.url }}/assets/cauliflower_rice/in_the_pan.JPG)
 4. Cook for aproximatelly 8 minutes to 10 minutes or till is nice and gold. Stir every minutes.
+![cauliflower rice]({{ site.url }}/assets/cauliflower_rice/with_spice.JPG)
 5. Add the nutritional yeast and cook one more minute
 
 ### Serve
 You can use it as a rice replacemnt. Today we had it wih Beef Stroganoff. 
-
+![cauliflower rice]({{ site.url }}/assets/cauliflower_rice/serve.JPG)
 ### Store
 You can store it in an airtight container for up to 3 days in the fridge.
 
