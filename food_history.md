@@ -55,6 +55,7 @@ permalink: /foodhistory/
         <img src="{{ site.url }}/assets/banana_mini_cakes/main.JPG" alt="Banana Mini-cakes/Brownies Gluten Free Dairy Free"/>
     </td>
     <td width="(100/3)%">
+    <img src="{{ site.url }}/assets/pumpkin_cheesecake/main.JPG" alt="Keto Pumpkin cheesecake"/>
     </td> 
     <td width="(100/3)%">
     </td>
@@ -64,6 +65,7 @@ permalink: /foodhistory/
         <a href="http://mela.ro/food/2018/10/06/Banana-Mini-Cake/">Banana Mini-cakes/Brownies Gluten Free Dairy Free</a>
     </td>
     <td width="(100/3)%">
+    <a href="http://mela.ro/food/2018/10/03/Pumpkin-Cheesecake/">Keto Pumpkin cheesecake</a>
     </td>
     <td width="(100/3)%">
     </td>

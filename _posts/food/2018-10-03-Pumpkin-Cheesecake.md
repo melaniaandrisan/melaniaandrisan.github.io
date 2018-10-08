@@ -8,7 +8,7 @@ title: "Keto Pumpkin cheesecake"
 
 ---
 
-The perfect creamy automn desert. 
+The perfect creamy automn desert. The entire home smells like pumpkin spiece as well as your desert plate.   
 
 
 **Prep Time**: 110-15 minutes
@@ -52,6 +52,7 @@ Cream:
 ![out of the oven]({{ site.url }}/assets/pumpkin_cheesecake/out_of_the_oven.JPG)
 
 ### Serve
+As is or with a dollop of whipped cream, ice cream or some good yogurt. 
 
 ![serve]({{ site.url }}/assets/pumpkin_cheesecake/serve.JPG)
 
