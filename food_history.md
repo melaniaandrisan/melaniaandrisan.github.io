@@ -33,9 +33,10 @@ permalink: /foodhistory/
         <img src="{{ site.url }}/assets/cauliflower_rice/main.JPG" alt="Keto Cauliflower Rice"/>
     </td>
     <td width="(100/3)%">
-        <img src="{{ site.url }}/assets/salmon/main.jpg" alt="Tuscan Salmon"/>
+        <img src="{{ site.url }}/assets/salmon/main.JPG" alt="Tuscan Salmon"/>
     </td> 
     <td width="(100/3)%">
+        <img src="{{ site.url }}/assets/all_you_have_muffins/main.JPG" alt="Breakfast Mini Cakes with leftovers"/>
     </td>
   </tr>
   <tr>
@@ -46,7 +47,25 @@ permalink: /foodhistory/
         <a href="http://mela.ro/food/2018/09/27/Toscan_Salmon/">Tuscan Salmon</a>
     </td>
     <td width="(100/3)%">
-        <a href=""></a>
+        <a href="http://mela.ro/food/2018/10/04/Breakfast-all-you-have-muffins/">Breakfast Mini Cakes with leftovers</a>
+    </td>
+  </tr>
+    <tr>
+    <td width="(100/3)%">
+        <img src="{{ site.url }}/assets/banana_mini_cakes/main.JPG" alt="Banana Mini-cakes/Brownies Gluten Free Dairy Free"/>
+    </td>
+    <td width="(100/3)%">
+    </td> 
+    <td width="(100/3)%">
+    </td>
+  </tr>
+  <tr>
+    <td width="(100/3)%">
+        <a href="http://mela.ro/food/2018/10/06/Banana-Mini-Cake/">Banana Mini-cakes/Brownies Gluten Free Dairy Free</a>
+    </td>
+    <td width="(100/3)%">
+    </td>
+    <td width="(100/3)%">
     </td>
   </tr>
 
