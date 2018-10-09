@@ -7,7 +7,7 @@ permalink: /foodhistory/
 <table width="100%">
   <tr>
     <td width="(100/3)%">
-        <img src="{{ site.url }}/assets/paleo_banana_bread/serve.JPG" alt="Paleo Banana Almond Butter bread"/>
+        <img src="{{ site.url }}/assets/paleo_banana_bread/small_serve.JPG" alt="Paleo Banana Almond Butter bread"/>
     </td>
     <td width="(100/3)%">
         <img src="{{ site.url }}/assets/keto_quiche/serve.JPG" alt="Keto Asparagus quiche"/>
