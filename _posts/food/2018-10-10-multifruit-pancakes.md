@@ -8,7 +8,7 @@ title: "Multi-fruit Pancakes"
 
 ---
 
-Moist and easy to handle but small hands. They are good fresh or out of the fredge with some butter, honey or your choice of jam. My little one loves them with raw haney and grass fed butter.  
+Moist and easy to handle by small hands. They are good fresh or out of the fredge with some butter, honey or your choice of jam. My little one loves them with raw haney and grass fed butter.  
 
 
 **Prep Time**: 5 minutes
