@@ -4,7 +4,7 @@ published: true
 layout: post
 date: "2018-10-03 23:30:10 +0200"
 categories: Food
-title: "Keto Pumpkin cheesecake"
+title: "Keto Pumpkin Cheesecake"
 
 ---
 
