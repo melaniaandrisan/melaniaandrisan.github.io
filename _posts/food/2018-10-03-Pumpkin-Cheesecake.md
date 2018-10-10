@@ -65,13 +65,13 @@ Total Servings: 16 slices
 
 **Amount Per Serving**
 
-- **Calories:**  kcal
-- **Total Fat:** g
-  - Saturated Fat: g
-  - Trans Fat: g
-- **Total Carbohydrates:** g
-  - Dietary Fiber:  g
-  - Sugars: g
-- **Protein:** g
+- **Calories:** 271.9 kcal
+- **Total Fat:** 25.8 g
+  - Saturated Fat: 12.9 g
+  - Trans Fat: 0.2 g
+- **Total Carbohydrates:** 16.7 g
+  - Dietary Fiber: 2.4 g
+  - Sugars: 3 g
+- **Protein:** 9.7 g
 
 Inspiration 
