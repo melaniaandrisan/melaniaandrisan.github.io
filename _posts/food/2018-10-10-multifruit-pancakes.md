@@ -15,28 +15,29 @@ Moist and easy to handle but small hands. They are good fresh or out of the fred
 
 **Cook time**: 15 minutes
 
-**Servings**: 8 slices
+**Servings**: 10 pancakes
 
 ![photo name]({{ site.url }}/assets/multifruit_pancakes/main.JPG)
 
 ### Utensils
-- blender
+- blender (or a grinder and a large bowl)
 - pan
 - 1/4 measuring cup
 
 ### Ingredients
-- 80 g apple (1/2)
-- 75 g pear (1/2)
-- 75 g peach (1/2)
+- 80 g apple (1/2 apple)
+- 75 g pear (1/2 pear)
+- 75 g peach (1/2 peach)
 - 2 large eggs
 - 120 g whole wheat flour (1 cup) - or 1/2 cup whole oat flour and 1/2 cup whole wheat flour. You can have them gluten free with just oat flour but they will not be so fluffy. 
 - 245 g whole milk (1 cup)
 - 5 g baking powder (1 teaspoon)
 
 ### Directions
-1. Put all the ingredients in the blender and blend for about 1 minute
-2. Let the mixture aside for about 5 minutes
-3. Put the pan on a medium heat and use the measuring cup to create the small pancakes 
+1. Cut the fruits 
+2. Put all the ingredients in the blender and blend for about 1 minute - if you do not have a blender grate the fruits and mix them together with the other ingredients in a large bowl
+3. Let the mixture aside for about 5 minutes
+4. Put the pan on a medium heat and use the measuring cup to create the small pancakes 
 4. Enjoy! 
 
 ### Serve

@@ -58,6 +58,7 @@ permalink: /foodhistory/
     <img src="{{ site.url }}/assets/pumpkin_cheesecake/main.JPG" alt="Keto Pumpkin cheesecake"/>
     </td> 
     <td width="(100/3)%">
+    <img src="{{ site.url }}/assets/multifruit_pancakes/main.JPG" alt="Multi-fruit Pancakes"/>
     </td>
   </tr>
   <tr>
@@ -68,7 +69,7 @@ permalink: /foodhistory/
     <a href="http://mela.ro/food/2018/10/03/Pumpkin-Cheesecake/">Keto Pumpkin cheesecake</a>
     </td>
     <td width="(100/3)%">
+    <a href="http://mela.ro/food/2018/10/10/multifruit-pancakes/">Multi-fruit Pancakes</a>
     </td>
   </tr>
-
 </table>
