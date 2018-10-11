@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to my technical experience space  "
 date: "2016-01-10 20:35:13 +0200"
-categories: jekyll update
+categories: [archive, jekyll update]
 published: true
 ---
 

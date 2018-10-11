@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: "2016-01-13 23:35:13 +0200"
-categories: liquid
+categories: [archive, liquid]
 title: "Day 4 - Learning about Liquid"
 ---
 

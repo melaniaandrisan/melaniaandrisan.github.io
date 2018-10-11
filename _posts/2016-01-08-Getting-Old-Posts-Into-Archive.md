@@ -3,7 +3,7 @@
 published: true
 layout: post
 date: "2016-01-28 23:30:10 +0200"
-categories: OldBlog
+categories: [archive, OldBlog]
 title: "Getting old posts into Archive"
 
 ---
