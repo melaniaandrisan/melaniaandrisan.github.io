@@ -3,7 +3,7 @@
 published: true
 layout: post
 date: "2016-02-01 23:30:10 +0200"
-categories: DNS
+categories: [archive, DNS]
 title: "Setting up a custom domain to my blog"
 
 ---

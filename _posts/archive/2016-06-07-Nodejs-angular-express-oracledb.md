@@ -3,7 +3,7 @@
 published: true
 layout: post
 date: "2016-06-07 23:30:10 +0200"
-categories: Angular
+categories: [archive, Angular]
 title: "NodeJS, Angular, Express and Oracle DB"
 
 ---

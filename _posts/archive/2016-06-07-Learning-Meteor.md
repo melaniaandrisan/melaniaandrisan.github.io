@@ -3,7 +3,7 @@
 published: true
 layout: post
 date: "2016-06-06 23:30:10 +0200"
-categories: Meteor
+categories: [archive, Meteor]
 title: "Learning Meteor"
 
 ---

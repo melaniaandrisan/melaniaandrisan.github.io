@@ -3,7 +3,7 @@
 published: true
 layout: post
 date: "2016-01-15 23:30:10 +0200"
-categories: Jekyll
+categories: [archive, Jekyll]
 title: "Swift - Reading and trying - The Swift programming language book"
 
 ---

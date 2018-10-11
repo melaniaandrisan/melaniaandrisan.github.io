@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: "2016-01-14 23:35:13 +0200"
-categories: google_analytics
+categories: [archive, google_analytics]
 title: "Day 5 - Adding Google analytics"
 ---
 
