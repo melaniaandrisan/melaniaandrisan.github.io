@@ -72,4 +72,26 @@ permalink: /foodhistory/
     <a href="http://mela.ro/food/2018/10/10/multifruit-pancakes/">Multi-fruit Pancakes</a>
     </td>
   </tr>
+  <tr>
+    <td width="(100/3)%">
+        <img src="{{ site.url }}/assets/banana_mini_cakes/main.JPG" alt="Keto Almond Crepes"/>
+    </td>
+    <td width="(100/3)%">
+    <img style="display:none;"/>
+    </td> 
+    <td width="(100/3)%">
+    <img style="display:none;"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="(100/3)%">
+        <a href="http://mela.ro/food/2018/10/06/Banana-Mini-Cake/">Keto Almond Crepes</a>
+    </td>
+    <td width="(100/3)%">
+    <a href="" style="display:none;"></a>
+    </td>
+    <td width="(100/3)%">
+    <a href="" style="display:none;"></a>
+    </td>
+  </tr>
 </table>
