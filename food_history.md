@@ -74,7 +74,7 @@ permalink: /foodhistory/
   </tr>
   <tr>
     <td width="(100/3)%">
-        <img src="{{ site.url }}/assets/banana_mini_cakes/main.JPG" alt="Keto Almond Crepes"/>
+        <img src="{{ site.url }}/assets/keto_almond_crapes/serve.JPG" alt="Keto Almond Crepes"/>
     </td>
     <td width="(100/3)%">
     <img style="display:none;"/>
@@ -85,7 +85,7 @@ permalink: /foodhistory/
   </tr>
   <tr>
     <td width="(100/3)%">
-        <a href="http://mela.ro/food/2018/10/06/Banana-Mini-Cake/">Keto Almond Crepes</a>
+        <a href="http://mela.ro/food/2018/10/08/keto-almond-crepes/">Keto Almond Crepes</a>
     </td>
     <td width="(100/3)%">
     <a href="" style="display:none;"></a>
